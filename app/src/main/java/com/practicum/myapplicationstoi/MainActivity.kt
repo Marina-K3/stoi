@@ -41,6 +41,6 @@ fun Greeting(name: String, modifier: Modifier = Modifier) {
 @Composable
 fun GreetingPreview() {
     MyApplicationSTOITheme {
-        Greeting("Android")
+        Greeting("Android HELLO from Marina 3 laba")
     }
 }
